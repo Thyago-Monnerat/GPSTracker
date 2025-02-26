@@ -46,4 +46,4 @@
     ```
 ---
 ### Fluxo
-!["Fluxo do sistema"]("./gpsFlow.png")
+!["Fluxo do sistema"]("gpsFlow.png")
