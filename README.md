@@ -4,6 +4,7 @@
 ## Sistema de monitoramento de gps feito com Kafka + Websocket
 
 ### Geral:
+* Arquitetura de microsserviços, totalmente desacoplada.
 * GPS mockado, enviando um trajeto fixo e fazendo requisições POST atualizando a posição
 * Kafka com zookeeper para receber as atualizações
 * Kafka Producer para receber a requisição POST e enviar para o Kafka
